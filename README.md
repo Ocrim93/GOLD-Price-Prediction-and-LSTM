@@ -1,6 +1,6 @@
 # GOLD-Price-Prediction-and-LSTM
 
-This program uses an artificial recurrent network called Long Short Term Memory(LSTM)
+This program uses an artificial recurrent network called Long Short Term Memory (LSTM)
 to predict the closign stock price of GOLD using the past 60 day stock price.
 
 
